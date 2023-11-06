@@ -3,6 +3,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - TryHackMe SOC Level 1 path (https://tryhackme.com/p/Damonsmth)
+- Nessus Vulnerability Managmeent Lab 
+  • Installed and configured Nessus Essentials to perform credentialed vulnerability scans against
+    Windows 10 Hosts
+  • Implemented Vulnerability Management Function on sandbox networks:
+       - Discover, Prioritize, Assess, Report, Remediate,Verify
+  • Conduced vulerability assessments with Nessus; remediated vulnerabilities
+  • Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software
 
 <h2> 🔭 I’m currently working on </h2>
 
