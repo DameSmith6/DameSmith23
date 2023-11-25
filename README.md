@@ -12,7 +12,7 @@
 
    *Created basic Yara rules to identify information based on both binary and textual patterns, such as hexadecimal and strings contained within a file
 
-   *Explored CTI lifecycle standards and frameworks
+   *Explored CTI lifecycle, standards and frameworks
 
    *Explored responsibilites of a tier 1 SOC analyst and the core function of a SOC
 
