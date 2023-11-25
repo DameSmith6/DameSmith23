@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- TryHackMe SOC Level 1 path (https://tryhackme.com/p/Damonsmth)
+- TryHackMe SOC Level 1 path(progressive) (https://tryhackme.com/p/Damonsmth)
   
    *Explored tools/resources that MITRE has provided to the security community
 
